@@ -1,0 +1,2 @@
+wpeinit
+call deploy.cmd
